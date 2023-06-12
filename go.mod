@@ -1,4 +1,4 @@
-module github.com/ejcx/go-sigma-rule-engine
+module github.com/runreveal/go-sigma-rule-engine
 
 go 1.18
 
